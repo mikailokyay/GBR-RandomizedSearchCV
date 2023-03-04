@@ -1,1 +1,1 @@
-# GradientBoostingRegressor-and-HyperParameter-Opt-by-using-RandomizedSearchCV
+# Gradient Boosting Regressor and Hyper-Parameter Optimization by using RandomizedSearchCV
